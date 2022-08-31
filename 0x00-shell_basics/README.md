@@ -1,1 +1,1 @@
-print pathname of cwd
+Display the contents list of your current directory
