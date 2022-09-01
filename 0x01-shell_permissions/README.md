@@ -1,1 +1,1 @@
-scripts that sets mode  of a file
+script to set mode to hello
