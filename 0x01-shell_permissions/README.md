@@ -1,1 +1,1 @@
- script owner and group
+script symbolic link
