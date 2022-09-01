@@ -1,1 +1,1 @@
-welcome to school
+life is a series of commas
