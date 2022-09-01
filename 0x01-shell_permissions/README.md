@@ -1,1 +1,1 @@
-script to set mode to hello
+script to set directories permissions
