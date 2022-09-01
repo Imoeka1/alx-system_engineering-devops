@@ -1,1 +1,1 @@
-script symbolic link
+script if only
