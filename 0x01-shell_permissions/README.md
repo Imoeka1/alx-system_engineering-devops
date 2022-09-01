@@ -1,1 +1,1 @@
-script to set directories permissions
+script that creates a directory
