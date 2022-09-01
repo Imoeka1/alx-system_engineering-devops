@@ -1,1 +1,1 @@
-script to change group
+ script owner and group
