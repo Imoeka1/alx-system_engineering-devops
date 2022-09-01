@@ -1,1 +1,1 @@
-script if only
+script star war
