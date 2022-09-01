@@ -1,1 +1,1 @@
-script that creates a directory
+script to change group
