@@ -1,1 +1,1 @@
-betty in my first director
+my first director
