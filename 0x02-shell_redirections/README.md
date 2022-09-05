@@ -1,1 +1,1 @@
-displays all liones in the file
+display all of the lines
