@@ -1,1 +1,1 @@
-script to display six lines
+script that wrires into the file
