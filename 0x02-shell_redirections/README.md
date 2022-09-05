@@ -1,1 +1,1 @@
-script that counts the of directories
+to change directories
