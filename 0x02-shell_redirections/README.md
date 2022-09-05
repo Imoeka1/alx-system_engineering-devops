@@ -1,1 +1,1 @@
-script that prints
+script to write
