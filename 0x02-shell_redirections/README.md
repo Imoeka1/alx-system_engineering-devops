@@ -1,1 +1,1 @@
-script last lines
+script first lines
