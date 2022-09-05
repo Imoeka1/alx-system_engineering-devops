@@ -1,1 +1,1 @@
-to change directories
+scrite for ten newest
