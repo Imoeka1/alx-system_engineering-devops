@@ -1,1 +1,1 @@
-script that prints smiley
+script smiley
