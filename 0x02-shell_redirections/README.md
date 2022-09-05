@@ -1,1 +1,1 @@
-contains pattern
+display pattern root
