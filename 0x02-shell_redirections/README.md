@@ -1,1 +1,1 @@
-script that slide
+to delete js
