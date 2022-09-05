@@ -1,1 +1,1 @@
-script first lines
+script to display six lines
