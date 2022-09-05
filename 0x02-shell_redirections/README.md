@@ -1,1 +1,1 @@
-contains pattern bin
+displays all liones in the file
