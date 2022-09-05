@@ -1,1 +1,1 @@
-scrite for ten newest
+directory unique
