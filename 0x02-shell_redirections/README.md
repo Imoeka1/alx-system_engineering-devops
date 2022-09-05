@@ -1,1 +1,1 @@
-diplays root
+displays the number of lines
