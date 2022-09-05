@@ -1,1 +1,1 @@
-to delete js
+delete js
