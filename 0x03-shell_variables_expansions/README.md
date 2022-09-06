@@ -1,1 +1,1 @@
-script that create new local variable
+script that prints two decimal places
