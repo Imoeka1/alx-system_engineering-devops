@@ -1,1 +1,1 @@
-script of environment variables
+scripts that add local variables
