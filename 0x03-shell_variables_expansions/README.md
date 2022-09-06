@@ -1,1 +1,1 @@
-to divide and rule
+love exponent
