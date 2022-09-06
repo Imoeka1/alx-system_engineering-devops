@@ -1,1 +1,1 @@
-script that prints two decimal places
+script that prints every line
