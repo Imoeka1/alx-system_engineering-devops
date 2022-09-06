@@ -1,1 +1,1 @@
-scripts that prints all possible combinations
+script that prints a number
