@@ -1,1 +1,1 @@
-script that prints new global variable
+to divide and rule
