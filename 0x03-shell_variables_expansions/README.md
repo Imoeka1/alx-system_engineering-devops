@@ -1,1 +1,1 @@
-set script
+script that creates new variable
