@@ -1,1 +1,1 @@
-script that prints the addition
+script new global variable
