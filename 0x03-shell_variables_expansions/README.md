@@ -1,1 +1,1 @@
-love exponent
+script that convert bases
