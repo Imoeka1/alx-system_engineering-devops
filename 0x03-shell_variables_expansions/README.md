@@ -1,1 +1,1 @@
-script that convert bases
+scripts that prints all possible combinations
