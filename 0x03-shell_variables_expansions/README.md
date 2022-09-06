@@ -1,1 +1,1 @@
-script that counts
+script of environment variables
